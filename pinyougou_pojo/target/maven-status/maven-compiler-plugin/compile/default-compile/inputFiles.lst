@@ -11,6 +11,7 @@
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbSeller.java
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbContentCategoryExample.java
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbAreasExample.java
+/Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/entity/PageResult.java
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbProvinces.java
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbGoodsExample.java
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbGoods.java
@@ -20,8 +21,8 @@
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbGoodsDescExample.java
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbItem.java
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbUserExample.java
-/Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbCities.java
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbSpecificationOption.java
+/Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbCities.java
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbContentExample.java
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbSpecificationExample.java
 /Users/欧阳伟伟/Desktop/pinyougou_p/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbItemCatExample.java
