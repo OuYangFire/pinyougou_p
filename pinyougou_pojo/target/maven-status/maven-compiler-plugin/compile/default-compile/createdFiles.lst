@@ -32,6 +32,7 @@ com/pinyougou/pojo/TbUserExample.class
 com/pinyougou/pojo/TbPayLogExample$Criterion.class
 com/pinyougou/pojo/TbProvincesExample$Criteria.class
 com/pinyougou/pojo/TbSpecificationOptionExample$Criteria.class
+entity/Result.class
 com/pinyougou/pojo/TbBrandExample$Criterion.class
 com/pinyougou/pojo/TbUser.class
 com/pinyougou/pojo/TbPayLog.class
@@ -80,8 +81,8 @@ com/pinyougou/pojo/TbOrderItemExample$Criteria.class
 com/pinyougou/pojo/TbFreightTemplateExample.class
 com/pinyougou/pojo/TbSpecificationOptionExample$Criterion.class
 com/pinyougou/pojo/TbProvincesExample$GeneratedCriteria.class
-com/pinyougou/pojo/TbItemExample$Criteria.class
 com/pinyougou/pojo/TbTypeTemplate.class
+com/pinyougou/pojo/TbItemExample$Criteria.class
 com/pinyougou/pojo/TbTypeTemplateExample$Criterion.class
 com/pinyougou/pojo/TbItemCatExample$Criteria.class
 com/pinyougou/pojo/TbUserExample$GeneratedCriteria.class
